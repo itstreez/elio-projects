@@ -1,0 +1,117 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "jennifer",
+      "created": "12:08 PM",
+      "message": "hello!",
+      "photo": "https://i.pravatar.cc/400?img=9%27",
+      "lasts": "last seen today at 12:09 PM"
+    },
+    {
+      "id": 2,
+      "name": "freddy",
+      "created": "12:05 PM",
+      "message": "how are you?",
+      "photo": "https://i.pravatar.cc/400?img=7%27",
+      "lasts": "last seen today at 12:05 PM"
+    },
+    {
+      "id": 3,
+      "name": "christelle",
+      "created": "12:00 PM",
+      "message": "great!",
+      "photo": "https://i.pravatar.cc/400?img=16%27",
+      "lasts": "last seen today at 12:00 PM"
+    },
+    {
+      "id": 4,
+      "name": "maria",
+      "created": "11:49 AM",
+      "message": "bye!",
+      "photo": "https://i.pravatar.cc/400?img=5%27",
+      "lasts": "last seen today at 11:49 AM"
+    },
+    {
+      "id": 5,
+      "name": "kante",
+      "created": "2:58 AM",
+      "message": "wanna play?",
+      "photo": "https://i.pravatar.cc/400?img=11%27",
+      "lasts": "last seen today at 3:49 AM"
+    },
+    {
+      "id": 6,
+      "name": "melissa",
+      "created": "Yesterday",
+      "message": "gg!",
+      "photo": "https://i.pravatar.cc/400?img=10%27",
+      "lasts": "last seen yesterday at 11:49 PM"
+    },
+    {
+      "id": 7,
+      "name": "charleen",
+      "created": "Yesterday",
+      "message": "Me: bye",
+      "photo": "https://i.pravatar.cc/400?img=19%27",
+      "lasts": "last seen yesterday at 9:32 PM"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "ms1": "hello!",
+      "ms2": "hi",
+      "ms3": "how are you",
+      "ms4": "fine and you"
+    },
+    {
+      "id": 2,
+      "ms1": "how are you?",
+      "ms2": "everything's good",
+      "ms3": "wyd?",
+      "ms4": "nothing.."
+    },
+    {
+      "id": 3,
+      "ms1": "where are you",
+      "ms2": "at home",
+      "ms3": "ok",
+      "ms4": "bye"
+    },
+    {
+      "id": 4,
+      "ms1": "hii",
+      "ms2": "are you coming?",
+      "ms3": "yes , maybe",
+      "ms4": "ok"
+    },
+    {
+      "id": 5,
+      "ms1": "wanna play?",
+      "ms2": "sure",
+      "ms3": "invite",
+      "ms4": "1 sec"
+    },
+    {
+      "id": 6,
+      "ms1": "gg!",
+      "ms2": "nice one",
+      "ms3": "thanks",
+      "ms4": "see you"
+    },
+    {
+      "id": 7,
+      "ms1": "gym?",
+      "ms2": "let's go",
+      "ms3": "at 2?",
+      "ms4": "alright!"
+    }
+  ],
+  "insertedMessages": [
+    {
+      "mess": "let'go",
+      "id": 1
+    }
+  ]
+}
